@@ -13,8 +13,6 @@ IonicStorageModule, OneSignalPlugin-Notification
 
 <img src="https://raw.githubusercontent.com/Arcangel1994/IonicwithAngularPushNotifications-OneSignal/master/src/assets/Notification.png" /> <br>
 
-<img src="https://raw.githubusercontent.com/Arcangel1994/IonicwithAngularPushNotifications-OneSignal/master/src/assets/Delete.png" /> <br>
-
 <h4>PostMan Send notifications to the application.</h4>
 
 <img src="https://raw.githubusercontent.com/Arcangel1994/IonicwithAngularPushNotifications-OneSignal/master/src/assets/SendPushAllUser.png" /> <br>

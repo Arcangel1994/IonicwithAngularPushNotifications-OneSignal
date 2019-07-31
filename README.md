@@ -1,0 +1,2 @@
+# IonicwithAngularPushNotifications-OneSignal
+IonicStorageModule, OneSignalPlugin-Notification
